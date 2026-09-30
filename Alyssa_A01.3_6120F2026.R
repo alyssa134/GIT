@@ -5,9 +5,15 @@
 # Date Created: [2026-09-30]              
 # Last Modified:[2026-09-30]              
 
+
+# Create R project for GIT project before installing, or else you might run into
+# some errors that are hard to debug. 
+
 #---Git Install ----
 install.packages("usethis")
 library(usethis)
 use_git_config(user.name = 'alyssa134', user.email = 'alyssa.yorku@gmail.com')
 
+
 use_git()
+library(tidyverse)
