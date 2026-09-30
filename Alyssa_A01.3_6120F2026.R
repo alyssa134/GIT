@@ -30,3 +30,14 @@ gitcreds_set()
 library(usethis)
 use_github()
 
+
+# link for Raymond (R to GitHub):  https://github.com/alyssa134/GIT
+
+#---Push your changes to Github----
+# note: I followed the video tutorial first so again used the pull/push commands
+# using the mouse, but can also use: 'git push origin master'
+
+#----Push your code to the repository----
+# note: I followed the video tutorial first so again used the pull/push commands
+# using the mouse, but can also use: 'git pull origin master' and then 
+# push your files to the remote repository using 'git push origin master'
